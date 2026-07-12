@@ -11,7 +11,7 @@
 
 MediCompare is a cross-platform mobile application developed in Flutter for comparing medicine prices across pharmacies operating in Pakistan. The application retrieves pricing data through a dedicated FastAPI backend that performs real-time web scraping, and it employs Firebase for authentication and data persistence and Google Gemini AI for comparative medicine analysis.
 
-The backend service is maintained in a separate repository: [MediCompare-Backend-Model](#).
+The backend service is maintained in a separate repository: [https://github.com/FatimaAsif1211/MediCompare-Backend-Model]
 
 ## Core Features
 
@@ -236,4 +236,4 @@ This project is distributed under the MIT License. See the `LICENSE` file for de
 ## Contact
 
 - Issues: GitHub Issues page of this repository
-- Backend Repository: [MediCompare-Backend-Model](#)         
+- Backend Repository: [https://github.com/FatimaAsif1211/MediCompare-Backend-Model](#)         
