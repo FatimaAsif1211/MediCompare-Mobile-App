@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905489778783",
+    "project_id": "medicompare-95c6c",
+    "storage_bucket": "medicompare-95c6c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905489778783:android:4e1943243f212ffb72b3ea",
+        "android_client_info": {
+          "package_name": "com.medicompare.medicompare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvYgjaL6cb4_wcu7FOrg4t00LDxvd82aY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
