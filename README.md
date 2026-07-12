@@ -15,14 +15,14 @@ The backend service is maintained in a separate repository: [https://github.com/
 
 ## Core Features
 
-- **Live Price Comparison** — Retrieves current prices from twelve or more pharmacies and automatically identifies the lowest available price for a given medicine.
-- **AI-Assisted Analysis** — Integrates Google Gemini to generate comparative summaries of alternative medicines.
-- **Authentication** — Email and password authentication with password recovery, implemented through Firebase Authentication.
-- **Personal Medicine Cabinet** — Enables users to record, update, and remove entries for medicines they use, with data synchronized through Cloud Firestore.
-- **Best Deals Feed** — Presents a curated list of the lowest verified prices across tracked products.
-- **Category Browsing** — Organizes medicines into categories such as vitamins, baby care, and heart care.
-- **Deep Linking** — Allows direct navigation from within the application to the corresponding pharmacy product page.
-- **User Interface** — Comprises more than thirty screens implemented using Material Design principles.
+- **Live Price Comparison** : Retrieves current prices from twelve or more pharmacies and automatically identifies the lowest available price for a given medicine.
+- **AI-Assisted Analysis** : Integrates Google Gemini to generate comparative summaries of alternative medicines.
+- **Authentication** : Email and password authentication with password recovery, implemented through Firebase Authentication.
+- **Personal Medicine Cabinet** : Enables users to record, update, and remove entries for medicines they use, with data synchronized through Cloud Firestore.
+- **Best Deals Feed** : Presents a curated list of the lowest verified prices across tracked products.
+- **Category Browsing** : Organizes medicines into categories such as vitamins, baby care, and heart care.
+- **Deep Linking** : Allows direct navigation from within the application to the corresponding pharmacy product page.
+- **User Interface** :  Comprises more than thirty screens implemented using Material Design principles.
 
 ## Technology Stack
 
